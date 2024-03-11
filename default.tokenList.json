@@ -40,10 +40,10 @@
       "address": "0x89c4434119b237922069673439c35f90025563c9",
       "chainId": 13381,
       "decimals": 18,
-      "logoURI": "https://zebrocoin.info/assets/img/logo/zebro_phoenix/clearbg/zebrocoin_phoenix_logo_clearbg_256x256.png",
+      "logoURI": "https://zebrocoin.app/assets/img/logos/zebrocoin_logo_256x256.png",
       "telegram": "https://t.me/ZebroTalk",
       "twitter": "https://twitter.com/Zebrocoin",
-      "website": "https://zebrocoin.info",
+      "website": "http://zebrocoin.app",
       "email": "mailto:admin@zebrocoin.info",
       "discord": "https://discord.com/invite/d6hAEbU8CG"
     },
@@ -52,7 +52,7 @@
       "name": "ZebroUSD",
       "chainId": 13381,
       "decimals": 18,
-      "logoURI": "https://zebrocoin.info/assets/img/logo/zusd/zebrousd_transparent_256.png",
+      "logoURI": "https://zebrocoin.app/assets/img/logos/zebrousd_logo.png",
       "address": "0x6ea214917F28AD147E01201Cd88869332198D007"
     },
     {

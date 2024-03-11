@@ -1,0 +1,253 @@
+{
+  "name": "PHX",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://assets.coingecko.com/coins/images/21700/small/phoenix.png?1639728227",
+  "keywords": ["rigel", "default", "protocol"],
+  "tokens": [
+    {
+      "symbol": "META",
+      "name": "MetaTec",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/QmZbgUgcpkD1YaQghfRBKbNqjG1daUEXoxGRofMsDzbkAV?filename=photo_2022-06-15_19-28-32.jpg",
+      "address": "0xd0ECA7dd6055BBA7B7eAb721BAA20E8E1083C98f"
+    },
+    {
+      "symbol": "High",
+      "name": "Highlander",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://freesvg.org/img/ScottishHighlander.png",
+      "address": "0x793Cf9c4c405C8e9203FA2EBF704F3c746Da7bEf"
+    },
+    {
+      "symbol": "wPHX",
+      "name": "Wrapped Phoenix",
+      "address": "0xcb186051DD62914B6dFc56c257823bfDA20DbEe6",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmZ27wE8tv15R3XHcw6iNaE7iHDXPBXxMx3PHGThpLp9pv?"
+    },
+    { 
+      "name": "Zebrocoin",
+      "symbol": "ZEBRO",
+      "address": "0x89c4434119b237922069673439c35f90025563c9",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://zebrocoin.info/assets/img/logo/zebro_phoenix/clearbg/zebrocoin_phoenix_logo_clearbg_256x256.png",
+      "telegram": "https://t.me/ZebroTalk",
+      "twitter": "https://twitter.com/Zebrocoin",
+      "website": "https://zebrocoin.info",
+      "email": "mailto:admin@zebrocoin.info",
+      "discord": "https://discord.com/invite/d6hAEbU8CG"
+    },
+    {
+      "symbol": "ZUSD",
+      "name": "ZebroUSD",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://zebrocoin.info/assets/img/logo/zusd/zebrousd_transparent_256.png",
+      "address": "0x6ea214917F28AD147E01201Cd88869332198D007"
+    },
+    {
+      "name": "Preperation-H",
+      "symbol": "PH",
+      "address": "0xff35B8cd283ca9Cc181267b657CD02b456470e44",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmPDEQwq46sgZAHjKrm3WkaScozu3HVpDNMiBuGe48RGPq"
+    },
+    {
+      "name": "CFG Ninja",
+      "symbol": "CFG",
+      "address": "0x5CA60c5e0Df639FA827CE9834e05CD42D095b0EB",
+      "chainId": 13381,
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYX6r8x5bMzq7HasRHzoXg9nULDedkQGWZnL5qzh1D1zU",
+      "website": "https://cfg.ninja/",
+      "twitter": "https://twitter.com/CfgNinja",
+      "telegram": "https://t.me/cfgninjaaudits/"
+    },
+    {
+      "name": "YTXViewer",
+      "symbol": "YTXV",
+      "address": "0xA44c072AA2b5392766AaF5b86e4b78d2d10dFF1a",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmT9RSTK9gavgQEPCMtukdfqquCxuiCoEGk2kZQAituaBm",
+      "telegram": "https://t.me/YTXViewersOfficial",
+      "twitter": "https://twitter.com/ytxviewer",
+      "website": "https://ytxviewers.com",
+      "email": "mailto:support@ytxviewers.com"
+    },
+    {
+      "name": "Elmo",
+      "symbol": "ELMO",
+      "address": "0x2e6F325717639C260D434A8E3035508dCFd5536B",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://wallpapercave.com/wp/wp3942402.jpg"
+    },
+    {
+      "name": "Sapphire",
+      "symbol": "SAPPHIRE",
+      "address": "0x4DE92c6Bec61c86370007Ac2BB3ffE6F35d79D76",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmYHF5hACYVJ7GoXiy41qwG4dVkEQ8eDGJhkofSdLVptWX?"
+    },
+    {
+      "name": "Emerald",
+      "symbol": "EMRLD",
+      "address": "0xCD03Ad1dD04Acb1E980c816D125E628237Ab8cC6",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/Qmd6VpJLG7gwQDiXJkPCbspd88QpZ5ZhMsaEgHqt82qREK?"
+    },
+    {
+      "name": "Ruby",
+      "symbol": "RUBY",
+      "address": "0xC0e1c71300c3FEaa1e995dF07c24192FA4390Fb1",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmPYo6M2TeTQqdEfYWqQj275Yt3JfrAfZHqWZi2yWUK4uz?"
+    },
+    {
+      "name": "Diamond",
+      "symbol": "DMD",
+      "address": "0xCeC504aD8b2852bd6193458f05E04896C57989F5",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmP1dMi72dybMRiDEEfKydaFj3gyvPZH6qZTGja7aqRo8o?",
+      "website": "https://www.diamondappz.com/#/",
+      "twitter": "https://twitter.com/phoenixblockchn",
+      "telegram": "https://t.me/Crypto_Phoenix_Official",
+      "discord": "https://discord.com/channels/909225872584736888/909225872584736891"
+    },
+    {
+      "name": "AIR",
+      "symbol": "AIR",
+      "address": "0xD5CB96Ba85285afBe97D86bdcD299ef25DEe3E1a",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Air.png"
+    },
+    {
+      "name": "ASHES",
+      "symbol": "ASHES",
+      "address": "0xC7945d8Efe49Bdc5b32D5877AD7e8eD65361BC13",
+      "chainId": 13381,
+      "decimals": 0,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Ashes.png"
+    },
+    {
+      "name": "DIRT",
+      "symbol": "DIRT",
+      "address": "0x0AFaFcD20567A557F345DEf51569be7999702077",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Dirt.png"
+    },
+    {
+      "name": "FIRE",
+      "symbol": "FIRE",
+      "address": "0x58acC410e7978B18b4170215AB5393F5B11b16f5",
+      "chainId": 13381,
+      "decimals": 0,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Fire.png"
+    },
+    {
+      "name": "IGNITE",
+      "symbol": "IGNITE",
+      "address": "0x01F4eb2D45dD2A00AC6566bE19a93cb2419C83C0",
+      "chainId": 13381,
+      "decimals": 0,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Ignite.png"
+    },
+    {
+      "name": "IRON",
+      "symbol": "IRON",
+      "address": "0x7738Ae2a3EB84aFB232b3a52C9001f826828f259",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Iron.png"
+    },
+    {
+      "name": "MYST",
+      "symbol": "MYST",
+      "address": "0x216b9a602a41a8B3eb059D37bc7f1A282d5A55b6",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Myst.png"
+    },
+    {
+      "name": "SMOKE",
+      "symbol": "SMOKE",
+      "address": "0x7cc2805E49F854b2DCA43eD5807b775038d8DdCe",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Smoke.png"
+    },
+    {
+      "name": "STONE",
+      "symbol": "STONE",
+      "address": "0x9c8D54E5a579bC122010Df059a109c8F1594533E",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Stone.png"
+    },
+    {
+      "name": "WATER",
+      "symbol": "WATER",
+      "address": "0xd09091c6BA3C174c527c745Ee0aA7075b267de3F",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Water.png"
+    },
+    {
+      "name": "WIND",
+      "symbol": "WIND",
+      "address": "0xf19CCA2325ac88d0374AD173a82E8d51De0B48c6",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Wind.png"
+    },
+    {
+      "name": "WOOD",
+      "symbol": "WOOD",
+      "address": "0xa45c36d59B0e443BA1dE0985CF9DD4a973c1B783",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmRh5FWNrWVxk8cY16vbXTQw32WqpeGuhJsWDbnDSKbkoS/Wood.png"
+    },
+    {
+      "name": "TrustLinker",
+      "symbol": "TRLK",
+      "address": "0xA1647b52364CEAFB06810c5E07A23a5be5006703",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://trustlinker.net/LogoTransparent.png",
+      "website": "https://trustlinker.net/",
+      "twitter": "https://twitter.com/TrustLinker",
+      "telegram": "https://t.me/TrustLinker"
+    },
+    {
+      "name": "Governance Phoenix",
+      "symbol": "GPHX",
+      "address": "0x163E8183446580D5f48bd25eDeE132dFED9D60c9",
+      "chainId": 13381,
+      "decimals": 18,
+      "logoURI": "https://phoenix_foundation.mypinata.cloud/ipfs/QmYv6PTudozcEByGZ1XpAgWkg7JFZwYMijs9qFPhbDQ57X?",
+      "website": "https://gphxdao.com/",
+      "twitter": "https://twitter.com/phoenixblockchn",
+      "telegram": "https://t.me/Crypto_Phoenix_Official",
+      "discord": "https://discord.com/channels/909225872584736888/909225872584736891"
+    }
+  ]
+}
